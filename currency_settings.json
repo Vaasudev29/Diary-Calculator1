@@ -1,0 +1,30 @@
+{
+    "base_currency": "INR",
+    "default_display_currency": "USD",
+    "exchange_rates": {
+        "INR": 1.0,
+        "USD": 0.012,
+        "EUR": 0.011,
+        "GBP": 0.0094,
+        "AUD": 0.018,
+        "CAD": 0.017,
+        "IDR": 180.0,
+        "AED": 0.044,
+        "SAR": 0.045,
+        "SGD": 0.016,
+        "MYR": 0.056
+    },
+    "currency_symbols": {
+        "INR": "\u20b9",
+        "USD": "$",
+        "EUR": "\u20ac",
+        "GBP": "\u00a3",
+        "AUD": "$",
+        "CAD": "$",
+        "IDR": "Rp",
+        "AED": "\u062f.\u0625",
+        "SAR": "\ufdfc",
+        "SGD": "S$",
+        "MYR": "RM"
+    }
+}
